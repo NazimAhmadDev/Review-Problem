@@ -1,6 +1,5 @@
 import random
 
-
 cnt = 5
 
 print(f"You have a total of -->{cnt} chances")
